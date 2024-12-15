@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    background-color: #003366;
+}
+.navbar-brand img {
+    width: 120px;
+}
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+.info-section {
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+.info-icons {
+    margin: 20px 0;
+}
+.info-icons i {
+    margin: 0 10px;
+    font-size: 1.5rem;
+    color: #003366;
+}
+.footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+.btn-reserva {
+    background-color: #00b7ff;
+    color: white;
+}
+h2 {
+    font-size: 21px;
+}
+p2 {
+    font-size: 13px;
+    color: #504f4f;
+}
